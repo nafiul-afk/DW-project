@@ -1,0 +1,68 @@
+======================================================================
+ROAD ACCIDENT DATA - SUMMARY STATISTICS
+======================================================================
+
+Generated: 2026-01-21 12:23:39
+Data Source: final_output.csv
+
+----------------------------------------------------------------------
+OVERVIEW
+----------------------------------------------------------------------
+Total Records: 2,218
+Date Range: 2014-03-22 00:00:00 to 2026-01-18 00:00:00
+Total Deaths: 6,265
+Total Injured: 8,106
+Unique Districts: 65
+
+----------------------------------------------------------------------
+TOP 10 DISTRICTS BY ACCIDENTS
+----------------------------------------------------------------------
+  Dhaka: 552
+  Chattogram: 162
+  Cumilla: 76
+  Sylhet: 64
+  Gazipur: 64
+  Rajshahi: 59
+  Mymensingh: 55
+  Sirajganj: 55
+  Narayanganj: 50
+  Tangail: 43
+
+----------------------------------------------------------------------
+TOP 10 CAUSES OF ACCIDENTS
+----------------------------------------------------------------------
+  head-on collision: 218
+  collision: 82
+  road accident: 50
+  fire: 23
+  overturned: 22
+  truck hit motorcycle accident: 21
+  unknown: 20
+  plunged into a roadside ditch: 16
+  driver lost control over the steering: 11
+  hit a roadside tree: 11
+
+----------------------------------------------------------------------
+ACCIDENTS BY YEAR
+----------------------------------------------------------------------
+  2014: 114
+  2015: 93
+  2016: 113
+  2017: 135
+  2018: 305
+  2019: 349
+  2020: 178
+  2021: 268
+  2022: 317
+  2023: 147
+  2024: 65
+  2025: 127
+  2026: 7
+
+----------------------------------------------------------------------
+AVERAGE STATISTICS
+----------------------------------------------------------------------
+Average Deaths per Accident: 2.82
+Average Injured per Accident: 3.65
+Max Deaths in Single Accident: 50
+Max Injured in Single Accident: 200
